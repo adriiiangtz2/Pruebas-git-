@@ -10,7 +10,7 @@ use yii\filters\VerbFilter;
 use yii\helpers\ArrayHelper;
 use yii\web\NotFoundHttpException;
 /* HOLA  *//* hola */
-
+/**holaaaaa */
 /**
  * CatFavoritoController implements the CRUD actions for CatFavorito model.
  */
