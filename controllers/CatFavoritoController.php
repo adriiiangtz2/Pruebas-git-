@@ -9,7 +9,7 @@ use app\models\CatFavoritoSearch;
 use yii\filters\VerbFilter;
 use yii\helpers\ArrayHelper;
 use yii\web\NotFoundHttpException;
-
+/* HOLA  *//* hola */
 
 /**
  * CatFavoritoController implements the CRUD actions for CatFavorito model.
