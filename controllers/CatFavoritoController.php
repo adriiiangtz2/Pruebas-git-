@@ -138,6 +138,10 @@ class CatFavoritoController extends Controller
     /*HUEVOS*/
     /* HUEVOS 2 */ 
     /*AAAAAAAAAAAAAAAAAA*/
+<<<<<<< HEAD
     /* AAAAAAAAAAAAAA */
     /* AAAAAAAAAAAAASDASDSAD*/
+=======
+    /* AAAAAAAAAAAAAA111111111111111 */
+>>>>>>> cd7d9d9e73bc9f9ba14a0182c227fb02d0ca27ba
 }
