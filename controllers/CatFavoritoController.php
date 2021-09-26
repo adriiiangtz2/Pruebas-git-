@@ -10,7 +10,7 @@ use yii\filters\VerbFilter;
 use yii\helpers\ArrayHelper;
 use yii\web\NotFoundHttpException;
 /* HOLA  *//* hola */
-
+/**holaaaaa */
 /**
  * CatFavoritoController implements the CRUD actions for CatFavorito model.
  */
@@ -83,8 +83,7 @@ class CatFavoritoController extends Controller
            /*  'producto' => $producto, */
         ]);
     }
-     
-
+    
     /**
      * Updates an existing CatFavorito model.
      * If update is successful, the browser will be redirected to the 'view' page.
