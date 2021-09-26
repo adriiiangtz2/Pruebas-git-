@@ -136,8 +136,5 @@ class CatFavoritoController extends Controller
 }
 /*ADRIAN ES GAY*/
 /*HUEVOS*/
-<<<<<<< HEAD
 /* HUEVOS 2 */ 
-=======
 /*AAAAAAAAAAAAAAAAAA*/
->>>>>>> 9261b033aa9d8b785d54dc28f4443fc93aa9fec2
