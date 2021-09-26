@@ -133,9 +133,10 @@ class CatFavoritoController extends Controller
 
         throw new NotFoundHttpException('The requested page does not exist.');
     }
+    public $dato;
+    /*ADRIAN ES GAY*/
+    /*HUEVOS*/
+    /* HUEVOS 2 */ 
+    /*AAAAAAAAAAAAAAAAAA*/
+    /* AAAAAAAAAAAAAA */
 }
-/*ADRIAN ES GAY*/
-/*HUEVOS*/
-/* HUEVOS 2 */ 
-/*AAAAAAAAAAAAAAAAAA*/
-/* AAAAAAAAAAAAAA */
