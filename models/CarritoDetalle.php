@@ -9,15 +9,12 @@
 //NUEVA
 //NUEVA
 //NUEVA
-<<<<<<< HEAD
 //HOLAA
 //HOOOOLAAAA
 //HHHHHHH
-=======
 //NUEVA 2
 //NUEVA 2
 //NUEVA 2
->>>>>>> 8bf956b7e7d6973838f740232f7394c93f7cd193
 //CAMBIOS
 //cambioS
 //Y LO DE GESTION BRO????
