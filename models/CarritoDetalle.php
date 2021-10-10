@@ -55,8 +55,6 @@ class CarritoDetalle extends \yii\db\ActiveRecord
         return [
 
             [['cardet_cantidadadesdes11111111', '222222222222cardet_precio', 'cardet_fkproducto', 'cardet_fkcarro'], 'required'],
-            //modifica tu mama
-            [['cardet_cantidadadesdes', '222222222222cardet_precio', 'cardet_fkproducto', 'cardet_fkcarro'], 'required'],
             [['cardet_cantidad', 'cardet_valoracion', 'cardet_fkproducto', 'cardet_fkcarro'], 'integer'],
             [['cardet_precio'], 'number'],
             [['cardet_comentario'], 'string'],
