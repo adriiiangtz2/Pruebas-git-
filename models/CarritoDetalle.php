@@ -53,7 +53,7 @@ class CarritoDetalle extends \yii\db\ActiveRecord
     public function rules()
     {
         return [
-            [['cardet_cantidad', 'cardet_precio', 'cardet_fkproducto', 'cardet_fkcarro'], 'required'],
+            [['cardet_cantidadadesdes', 'cardet_precio', 'cardet_fkproducto', 'cardet_fkcarro'], 'required'],
             [['cardet_cantidad', 'cardet_valoracion', 'cardet_fkproducto', 'cardet_fkcarro'], 'integer'],
             [['cardet_precio'], 'number'],
             [['cardet_comentario'], 'string'],
